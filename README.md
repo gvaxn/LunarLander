@@ -1,6 +1,6 @@
 # LunarLander
-  The Lunar lander is an Aschyonis Simulation of a Lunar Aircraft landing on the moon. You are given three tries to land the Aircraft safely
-on the moon. If you crash and burn more than three times the game is over.
+  The Lunar lander is an Asynchronous Simulation of a Lunar Aircraft landing on the moon. You are given three tries to land the Aircraft
+  safely on the moon. If you crash and burn more than three times the game is over.
 
   You are given the choice to use three different landers, and with these different landers you can either thrust, free fall, or repeat 
 your last move. If you thrust, you can only thrust for a max of 3 seconds and you use one fuel pellet, but if you free fall, 
